@@ -1,0 +1,2 @@
+//127.0.0.1/c$/python_work/FETCH_LOG/wrapper
+C:/python_work/FETCH_LOG/wrapper
